@@ -1,0 +1,4 @@
+# Forecast
+Este es un proyecto de forecast utilizando técnicas para predecir los valores futuros de una serie temporal en diversas áreas, el pronóstico es útil para tomar decisiones informadas basadas en la predicción de eventos futuros como la previsión de la demanda, la planificación de la producción y la gestión del inventario.
+
+Forecast, también conocido como pronóstico, es una técnica de análisis de datos que se utiliza para predecir valores futuros de una serie temporal. La serie temporal es una secuencia de datos que se registran en intervalos regulares a lo largo del tiempo. El objetivo del pronóstico es prever valores futuros basados en patrones y tendencias pasadas en la serie temporal.
